@@ -1,168 +1,90 @@
-# 🚀 Futuristic GitHub Profile README
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Samuel+Birhanu+%F0%9F%91%8B;CS+Graduate+%7C+Full+Stack+Developer;Flutter+%26+Spring+Boot+Builder;Turning+ideas+into+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
-````md
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=280&section=header&text=Samuel%20Birhanu%20Teffera&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Graduate%20|%20AI%20%2C%20Cybersecurity%20%26%20Software%20Engineering&descAlignY=58&descAlign=50" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=900&lines=Exploring+Cybersecurity+%26+Ethical+Hacking;Building+AI+%26+Machine+Learning+Systems;Software+Engineer+in+Progress;Programming+Across+Multiple+Domains" alt="Typing SVG" />
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-```yaml
-Name: Samuel Birhanu Teffera
-Location: Ethiopia 🇪🇹
-Education: BSc in Computer Science
-Focus Areas:
-  - Software Development (General Programming)
-  - Cybersecurity & Ethical Hacking
-  - AI & Machine Learning
-  - Web Development (Frontend + Backend basics)
-  - Cloud & DevOps fundamentals
-Current Projects:
-  - BridgeMed Website (completed)
-  - Hotel Website (in progress)
-Career Goal:
-  - Become a Cybersecurity Engineer + AI Engineer
-  - Build intelligent, secure, and scalable systems
-  - Work across software, security, and AI domains
-````
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samibirhanu1&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
+  <a href="https://www.youtube.com/@samtech-samuelbirhanu1648">
+    <img src="https://img.shields.io/badge/YouTube-3K+%20Subscribers-FF0000?style=flat&logo=youtube&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Recently%20Graduated%20%F0%9F%8E%93-blue?style=flat" />
+</p>
 
 ---
 
-# ⚡ Tech Stack
+### 👨‍💻 About Me
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,python,c,cpp,git,github,vscode,linux&perline=8" />
-
-</div>
-
----
-
-# 📚 Current Learning Plan
-
-* 🔐 Cybersecurity & Ethical Hacking (Core Focus)
-* 🤖 AI & Machine Learning Fundamentals
-* ☁️ Cloud & DevOps Technologies
-* 💻 Advanced Programming & Problem Solving
+- 🎓 **Fresh CS Graduate** from Ethiopia — ready to build and contribute
+- 🌍 Based in **Ethiopia**, open to remote & local opportunities
+- 🏥 Shipped **[BridgeMed](https://bridgemed.org)** — a live healthcare web platform
+- 🏨 Currently building a **website for a 4-star hotel**
+- 📱 Developing a **CS Exit Exam App** with Flutter & Firebase
+- 🎬 Tech YouTuber — **3K+ subscribers** on [SamTech](https://www.youtube.com/@samtech-samuelbirhanu1648), returning soon!
+- 💼 Past experience: IT at **Akass Engineering** | Spring Boot intern at **Atlas**
+- 💬 Ask me about **Flutter, Spring Boot, Web Dev, or anything CS**
+- 🔭 Always learning, always building
 
 ---
 
-# 🚀 Projects
+### 🛠️ Tech Stack
 
-## 🌉 BridgeMed Website
+**Languages**
 
-```txt
-Tech Stack:
-HTML • CSS • JavaScript
-```
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-* Responsive UI
-* Real-world web development project
+**Frameworks & Tools**
 
----
-
-## 🏨 Hotel Website (In Progress)
-
-```txt
-Tech Stack:
-HTML • CSS • JavaScript
-```
-
-* Booking interface design
-* UI/UX focused web system
-* Future backend + security integration planned
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 🔐 Cybersecurity & Programming Practice Lab
+### 🚀 Featured Projects
 
-```txt
-Focus Areas:
-Networking • Cryptography • System Security • Algorithms
-```
-
-* Security fundamentals (RSA, Diffie-Hellman, etc.)
-* Programming practice across multiple languages
-* Problem-solving and logic building
+| Project | Description | Tech |
+|---|---|---|
+| 🏥 [BridgeMed](https://bridgemed.org) | Live healthcare web platform | HTML, CSS, JS |
+| 🏨 Hotel Website *(in progress)* | Full website for a 4-star hotel | Web Stack |
+| 📱 CS Exit Exam App *(in progress)* | Study app for Ethiopian CS students | Flutter, Firebase |
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samibirhanu1&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samibirhanu1&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samibirhanu1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samibirhanu1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-</div>
-
----
-
-# 🧠 Learning Focus
-
-* Cybersecurity & Ethical Hacking
-* AI & Machine Learning Systems
-* Full-Stack Programming Concepts
-* Cloud & Distributed Systems
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samibirhanu1&theme=github-dark-blue&hide_border=true" />
+</p>
 
 ---
 
-# 🧑‍💻 Programming Languages
+### 🌐 Connect With Me
 
-* HTML, CSS, JavaScript
-* Java (basic Spring Boot exposure)
-* Python (AI & scripting focus)
-* C (low-level fundamentals)
-* C++ (problem solving)
-
----
-
-# 🌐 Contact
-
-<div align="center">
-
-<a href="mailto:samuelbirhanu01@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://youtube.com/">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
+<p align="left">
+  <a href="https://github.com/samibirhanu1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-samibirhanu1-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.youtube.com/@samtech-samuelbirhanu1648" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-SamTech-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-# 💡 Quote
-
-<div align="center">
-
-```txt
-"Security, intelligence, and code are the foundation of modern systems."
-```
-
-</div>
-
----
-
-# 🔥 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=samibirhanu1&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
+<p align="center">
+  <i>"A CS degree is just the starting point — the real learning begins when you start building."</i>
+</p>
