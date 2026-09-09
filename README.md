@@ -21,7 +21,7 @@
 - 📱 Developing a **CS Exit Exam App** with Flutter & Firebase
 - 🎬 Tech YouTuber — **3K+ subscribers** on [SamTech](https://www.youtube.com/@samtech-samuelbirhanu1648), returning soon!
 - 💼 Past experience: IT at **Akass Engineering** | Spring Boot intern at **Atlas**
-- 💬 Ask me about **Flutter, Spring Boot, Web Dev, or anything CS**
+- 💬 Ask me about **Web Dev, Spring Boot,  Flutter, or anything CS**
 - 🔭 Always learning, always building
 
 ---
